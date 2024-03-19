@@ -1,17 +1,17 @@
 [
   {
-    "name": "John Doe",
-    "amount": 30,
+    "name": "John kennedy",
+    "amount": 19.99,
     "email": "johndoe@example.com"
   },
   {
-    "name": "Khan",
-    "amount": 50,
+    "name": "Emmanuel Roux",
+    "amount": 4.99,
     "email": "khan@example.com"
   },
   {
-    "name": "Alice",
-    "amount": 20,
+    "name": "Axel Zimmermann",
+    "amount": 2.49,
     "email": "alice@example.com"
   }
 ]
