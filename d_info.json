@@ -1,1 +1,5 @@
-gy
+{
+  "name": "John Doe",
+  "amount": 30,
+  "email": "johndoe@example.com"
+}
