@@ -2,17 +2,20 @@
   {
     "name": "John kennedy",
     "amount": "19.99$",
-    "email": "johndoe@example.com"
+    "email": "johndoe@example.com",
+    "img": "https://i.ibb.co/RPQ8F57/e73099ce-32ea-49fc-a811-37dd77eca8fd.jpg"
   },
   {
     "name": "Emmanuel Roux",
     "amount": "4.99$",
-    "email": "khan@example.com"
+    "email": "khan@example.com",
+"img": "https://i.ibb.co/RPQ8F57/e73099ce-32ea-49fc-a811-37dd77eca8fd.jpg"
   },
   {
     "name": "Matthias Koch",
     "amount": "2.49$",
-    "email": "alice@example.com"
+    "email": "alice@example.com",
+"img": "https://i.ibb.co/RPQ8F57/e73099ce-32ea-49fc-a811-37dd77eca8fd.jpg"
   },
 {
     "name": "Afghan",
