@@ -1,5 +1,17 @@
-{
-  "name": "John Doe",
-  "amount": 30,
-  "email": "johndoe@example.com"
-}
+[
+  {
+    "name": "John Doe",
+    "amount": 30,
+    "email": "johndoe@example.com"
+  },
+  {
+    "name": "Khan",
+    "amount": 50,
+    "email": "khan@example.com"
+  },
+  {
+    "name": "Alice",
+    "amount": 20,
+    "email": "alice@example.com"
+  }
+]
