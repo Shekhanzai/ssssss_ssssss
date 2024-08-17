@@ -1,1 +1,5 @@
-hh
+{
+  "play_store": true,
+  "paypal": true,
+  "crypto": true
+}
