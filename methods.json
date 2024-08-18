@@ -1,5 +1,5 @@
 {
   "play_store": false,
-  "paypal": true,
+  "paypal": false,
   "crypto": true
 }
